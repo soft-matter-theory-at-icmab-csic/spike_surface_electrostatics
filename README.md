@@ -13,7 +13,7 @@ This repository contains the following files necessary to run [PyGBe](https://gi
 
 - Free Energy method: Example of pqr files for the Free Energy calculations reported in Section 3.1 of our paper. We provide example pqr files for the Auxiliary I system (protein and planar surface with no charge) and Auxiliary II system (protein with no charge and charged planar surface) and reference system. Note that the data format does not match exactly the standard pqr file format but the pqr format used by PyGBe. The files will only be read correctly by the PyGBe software, not by other visualisation programs.
   
-- change_salt_concentration: PyGBe configuration files corresponfing to the calculations reported in the paper (section 3.2) using different Kappa values (i.e. different salt concentrations of 15 mM, 50 mM, 150 mM and 1500mM). The same configuration files were used for the three different variants and distances of separation.
+- change_salt_concentration: PyGBe configuration files corresponding to the calculations reported in the paper (section 3.2) using different Kappa values (i.e. different salt concentrations of 15 mM, 50 mM, 150 mM and 1500mM). The same configuration files were used for the three different variants and distances of separation.
 
 
 ## Citation
