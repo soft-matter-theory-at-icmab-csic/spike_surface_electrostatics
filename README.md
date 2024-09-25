@@ -1,3 +1,5 @@
+# Interaction of the SARS-CoV-2 Spike protein (WT, Delta and Omicron variants) with charged surfaces
+## Description
 This repository contains the following files necessary to run PyGBe calculations of the electrostatic interactions between the spike protein (WT, Delta and Omicron variants) and a negatively charged surface with a density charge of $$-1e/\text{nm}^2$$:
 
 
