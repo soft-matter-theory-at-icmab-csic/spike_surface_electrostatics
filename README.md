@@ -1,4 +1,4 @@
-This repository contains the following files necessary to run PyGBe calculations of the electrostatic interactions between the spike protein (WT, Delta and Omicron variants) and a negatively charged surface with a density charge of $$-1e*/\text{nm}^2$$:
+This repository contains the following files necessary to run PyGBe calculations of the electrostatic interactions between the spike protein (WT, Delta and Omicron variants) and a negatively charged surface with a density charge of $$-1e/\text{nm}^2$$:
 
 
 - pqr_spike_protein folder: It contains the pqr files for the 6 configurations per variant used in the paper.
