@@ -1,5 +1,5 @@
 - sensor_300x10x300_d02.face: File corresponding to the planar surface. Generated using python script https://github.com/pygbe/pygbe/blob/master/preprocessing_tools/mesh_brick.py
 - sensor_300x10x300_d02.vert: File corresponding to the planar surface. Generated using python script https://github.com/pygbe/pygbe/blob/master/preprocessing_tools/mesh_brick.py
 - input_protein_Mesh.prm: Nanoshaper input file necessary to generate the proteins surface ".vert" and ".face" files.
-- Omicron_triangulatedSurf_split.vert.zip and Omicron_triangulatedSurf_split.face.zip: Surface files corresponding to configuration 1 of the Omicron variant. Generated using Nanoshaper code https://gitlab.iit.it/SDecherchi/nanoshaper. The input parameter file specifing the characteristics of the surface is input_protein_Mesh.prm.
+- Omicron_triangulatedSurf_split.vert.zip and Omicron_triangulatedSurf_split.face.zip: Surface files corresponding to configuration 1 of the Omicron variant at contact distance (d_c=2{\AA}). Generated using Nanoshaper code https://gitlab.iit.it/SDecherchi/nanoshaper. The input parameter file specifing the characteristics of the surface is input_protein_Mesh.prm.
 - 
