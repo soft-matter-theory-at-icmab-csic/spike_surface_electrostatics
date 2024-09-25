@@ -13,3 +13,8 @@ This repository contains the following files necessary to run PyGBe calculations
 - change_salt_concentration: PyGBe configuration files corresponfing to different Kappa.
 
 - General_method_example: Example of pqr file of the Auxiliary I system (protein and planar surface with no charge) and Auxiliary II system (protein with no charge and charged planar surface). Note that the spacing does not match the typical pqr file. The files will only be read correctly by the PyGBe software, not by other visualisation programs. 
+
+## Citation
+
+Please cite our work corresponding to this dataset as follows:
+Domingo M, Guzman H, Kanduc M, Faraudo J. *Electrostatic interaction between SARS-CoV-2 and charged surfaces: Spike protein evolution changed the game.* [ChemRxiv. 2024](https://chemrxiv.org/engage/chemrxiv/article-details/66f19a2acec5d6c142f9dbe7) ; doi:10.26434/chemrxiv-2024-mrmjk This content is a preprint and has not been peer-reviewed.
