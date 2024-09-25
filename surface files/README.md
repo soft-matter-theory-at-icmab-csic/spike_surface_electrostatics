@@ -1,0 +1,4 @@
+- sensor_300x10x300_d02.face: File corresponding to the planar surface. Generated using python script https://github.com/pygbe/pygbe/blob/master/preprocessing_tools/mesh_brick.py
+- sensor_300x10x300_d02.vert: File corresponding to the planar surface. Generated using python script https://github.com/pygbe/pygbe/blob/master/preprocessing_tools/mesh_brick.py
+- input_protein_Mesh.prm: Nanoshaper input file necessary to generate the proteins surface ".vert" and ".face" files.
+- 
