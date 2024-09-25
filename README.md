@@ -17,6 +17,9 @@ This repository contains the following files necessary to run [PyGBe](https://gi
   
 - change_salt_concentration: PyGBe configuration files corresponding to the calculations reported in the paper (section 3.2) using different Kappa values (i.e. different salt concentrations of 15 mM, 50 mM, 150 mM and 1500mM). The same configuration files were used for the three different variants and distances of separation.
 
+## PyGBe scheme
+![alt text](https://github.com/soft-matter-theory-at-icmab-csic/spike_surface_electrostatics/blob/main/pygbe.drawio.png?raw=true)
+
 
 ## Citation
 
