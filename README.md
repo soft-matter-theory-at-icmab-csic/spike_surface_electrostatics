@@ -17,7 +17,7 @@ This repository contains the following files necessary to run [PyGBe](https://gi
   
 - change_salt_concentration: PyGBe configuration files corresponding to the calculations reported in the paper (section 3.2) using different Kappa values (i.e. different salt concentrations of 15 mM, 50 mM, 150 mM and 1500mM). The same configuration files were used for the three different variants and distances of separation.
 
-## PyGBe scheme
+## PyGBe directory scheme
 
 Scheme of directories and files in order to make one PyGBe calculation. In the directory of the calculation, there has to be a log directory, the pqr files of both the protein and the surface and a 'pygbe-calculation directory'. Inside of this directory, there is an output directory, a geometry directory (where the .vert and. face surface files are located) and the configuration and parameters files. The PyGBe calculation is run from the 'Calculation directory'.
 
