@@ -6,6 +6,8 @@ This repository contains the following files necessary to run [PyGBe](https://gi
 - pqr_spike_protein folder: It contains the pqr files for the 6 configurations per variant used in the paper.
 
 - surface.pqr: Pqr file of the planar surface. Note that the spacing does not match the typical pqr file. The file will only be read correctly by the PyGBe software, not by other visualisation programs.
+
+- surface files: Necessary input files to generate the surface files of the protein and planar surface. 
   
 - config_file.config: Configuration file used for the calculation with PyGBe.
 
