@@ -1,6 +1,6 @@
 # Interaction of the SARS-CoV-2 Spike protein (WT, Delta and Omicron variants) with charged surfaces
 ## Description
-This repository contains the following files necessary to run PyGBe calculations of the electrostatic interactions between the spike protein (WT, Delta and Omicron variants) and a charged surface corresponding to our preprint [ChemRxiv. 2024](https://chemrxiv.org/engage/chemrxiv/article-details/66f19a2acec5d6c142f9dbe7).
+This repository contains the following files necessary to run [PyGBe](https://github.com/pygbe/pygbe) calculations of the electrostatic interactions between the spike protein (WT, Delta and Omicron variants) and a charged surface corresponding to our preprint [ChemRxiv. 2024](https://chemrxiv.org/engage/chemrxiv/article-details/66f19a2acec5d6c142f9dbe7).
 
 
 - pqr_spike_protein folder: It contains the pqr files for the 6 configurations per variant used in the paper.
